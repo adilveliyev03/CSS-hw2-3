@@ -1,0 +1,117 @@
+.form{
+    display: flex;
+    align-items: center;
+}
+
+*{
+    align-items: center;
+    text-align: center;
+}
+
+
+
+.box {
+    width: 700px;
+    height: 650px;
+    background-color: white;
+    border-radius: 10px;
+    border:2px groove gray;  
+}
+
+.text {
+    text-transform: uppercase;
+    font-size: 20px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    color: black;
+    font-weight: 800;
+}
+
+
+
+
+
+
+
+.link { 
+    color: black;
+    font-weight: 700;
+}
+
+.name {
+    text-align: left;
+    width: 500px;
+    height: 40px;
+    border: 2px groove gray;
+    border-radius: 5px;
+    font-size: 25px;
+    font-weight: 300;
+    margin-bottom: 25px;
+}
+
+
+.email {
+    text-align: left;
+    width: 500px;
+    height: 40px;
+    border: 2px groove gray;
+    border-radius: 5px;
+    font-size: 25px;
+    font-weight: 100;
+    font-weight: 300;
+    margin-bottom: 25px;
+}
+
+.password {
+    text-align: left;
+    width: 500px;
+    height: 40px;
+    border: 2px groove gray;
+    border-radius: 5px;
+    font-size: 25px;
+    font-weight: 100;
+    font-weight: 300;
+    margin-bottom: 25px;
+}
+
+
+.passrepeat {
+    text-align: left;
+    width: 500px;
+    height: 40px;
+    border: 2px groove gray;
+    border-radius: 5px;
+    font-size: 25px;
+    font-weight: 100;
+    font-weight: 300;
+    margin-bottom: 25px;
+}
+
+.checkbox{
+    text-align: left;
+    margin-left: 90px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+.termservice{
+    font-size: 20px;
+}
+
+.buttonup {
+    width: 500px;
+    height: 50px;
+    background:linear-gradient(90deg, rgba(99,4,162,1) 11%, rgba(7,79,144,1) 51%, rgba(0,181,255,1) 100%) ;
+    border-radius: 5px;
+}
+
+.textup {
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+
+.login {
+    margin-top: 50px;
+}
